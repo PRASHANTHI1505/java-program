@@ -1,0 +1,31 @@
+1.sum of first 10 nmbers
+step1: start
+step2: declare count,sum
+step3: Assigning the value 1 into count and assigning value '0' to sum
+step4: adding count value to sum and store that result into sum (sum-->sum+count)
+step5: increment the count value by 1 (count-->count+1)
+step6: repeat these step 4 and step 5 until it reaches the count value lessthan or equal to 10
+       (count<=10) otherwise go to step7
+step7: print sum
+step8: stop
+
+
+2.print the even numbers 1 to 100
+step1:start
+step2:declare  a variable n
+step3:read the value of the variable n (n=1)
+step4:if the value of the n is divisible by 2 and remains the value 0 step5:print n is an even number
+step6:increment n (n=n+1)
+step7:repeat step4 and step5 until n<=100
+step8:stop
+
+
+3.print the odd numbers from 1 to 100
+step1:start
+step2:declare a variable n
+step3:read the value of the variable n (n=1)
+step4:if the value of the variable n is divisible by 2 and reamins the value 1
+step5:print n is an odd number
+step6:increment n (n=n+1)
+step7:repeat step4 and step5 until n is less than or equal to 100 (n<=100)
+step8:stop

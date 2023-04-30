@@ -1,0 +1,6 @@
+step1.      Start
+step2.   declare two number.
+step3:read the two numbers as 2 and 3
+step4:compare two numbers if 2 >3
+step5.     display bigger number.
+step6.stop.

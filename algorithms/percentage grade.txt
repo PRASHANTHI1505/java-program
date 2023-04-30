@@ -1,0 +1,15 @@
+
+
+  step1-start
+step2- decalre the variables physics,chemistry,biology,mathematics,computer,percentage,obtained marks
+step3-read the variables
+step5- calculate percentage -> percentage=(obtained marks/500)*100
+step6-print percentage
+step7- if percentage>=90 then print Grade A
+step8-else if percentage>=80 then print Grade B
+step9-else if percentage>=70 then print Grade C
+step10- elseif percentage>=60 then print Grade D
+step11-elseif percentage>=40 then print Grade E
+step12-otherwise it displays Grade F
+step13-stop
+​

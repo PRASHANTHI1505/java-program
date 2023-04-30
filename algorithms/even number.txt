@@ -1,0 +1,7 @@
+Step 1: Start  
+Step 2: Read a number is 60
+Step 3: Divide the number by 2 . 
+ Step 4: If remainder= O 
+Step 5: Print <60 is even>
+ Step 6: Print 60 is odd 
+ Step 7: Stop

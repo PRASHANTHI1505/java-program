@@ -1,0 +1,18 @@
+perfect number
+step1:start
+step2:declare the variable num,sum,count
+step3:read the variable num,sum=0,count=1
+step4: check wheather count is less than or equal to num if it is true then go to step5
+otherwise go to step9
+step5:check wheather  the num is divisible by count or not (num%count<=0)
+if it is true then go to step6
+step6:add sum,count value and store the result in sum(sum=sum+count)
+step7:increment count value  by one until the count les than or equal to num
+step8:repeat step4 until the count less than or equal to num
+step9:check wheather the sum is equal to num or not (sum== num)
+if it is true then go to step10 otherwise go to step11
+step10:print num is perfect number
+step11:print num is not a perfect number
+step12:stop 
+
+

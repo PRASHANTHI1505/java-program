@@ -1,0 +1,8 @@
+step1:start
+step2:declare the  count varibles
+step3:assigning the value sum=0,count=1
+step4:if count is even Then sum is=sum+count
+step5:count=count+1
+step6:repeat step 4 and 5 Until count>=20
+step7:dispaly sum
+step8:stop

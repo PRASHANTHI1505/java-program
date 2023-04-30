@@ -1,0 +1,6 @@
+step1:start
+step2:decare number1,nmber2,number3
+step3:read the values number1,number2,number3
+step4:avg of three numbers<sum of the numbers divided by the number of the vlaues>
+step5:display avg of the three numbers
+step6:stop

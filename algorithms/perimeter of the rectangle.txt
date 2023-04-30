@@ -1,0 +1,7 @@
+
+    Step 1:Start
+Step 2: declare the variable length breadth perimeter
+Step 3: read the values length breadth
+Step 4 : perimeter of rectangle  perimeter=2*(length+breadth)
+Step 5: print perimeter
+Step 6: stop 

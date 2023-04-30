@@ -1,0 +1,43 @@
+voter eligibility
+step1:start
+step2:declere the age 
+step3:now compare the age of the above given person  has the age older than 18 years
+step4:if the compared age is older than the 18 years
+step5:then print your are eligible to vote
+step6:otherwise print your are not eligible to vote
+step7:stop
+
+avaliability of admission
+step1:start
+step2:declare academic percentage
+step3:  read the percentage of the student
+step4:if the student got above the 80% then the studet has posibility to got the admission
+step5:otherwise the student has no posibility to got the admission 
+step6:stop
+
+avg and sum of three numbers
+step1:start
+step2:decare number1,nmber2,number3
+step3:read the values number1,number2,number3
+step4: add all the three numbers to get the sum of the three numbers and avg of three numbers<sum of the numbers divided by the number of the vlaues>
+step5:display the sum and avg of the three numbers
+step6:stop
+
+ login email 
+step1:stat
+step2: declare the emil address and password
+step3:read the email address and password
+step4:if the email address and the password are valid
+step5:then you can login to the facebook
+step6:otherwise you failed to login to the facebook
+step7:print login succesful
+step8:stop
+
+
+
+
+
+
+
+
+

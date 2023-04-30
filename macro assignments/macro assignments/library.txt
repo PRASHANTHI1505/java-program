@@ -1,0 +1,42 @@
+1.librarian
+
+step1:start
+step2:declare the variable librarian
+step3:read the value of the variable
+step4:check the number of books available in the library
+step5:print the number of books
+step6:register into the registration library
+step7:stop
+
+
+2.student
+
+step1:start
+step2:declare the variable student,library
+step3:read the required book of the student
+step4:if the required book is available go to step5otherwise go to step 6
+step5:print book is available,contact the librarian and access the book
+step6:print book is not available
+step7:stop
+
+
+3.login register
+
+step1:start
+step2:declare register,user,librarian
+step3:read the values of user
+step4:if the user want to access the books in the library login to the login register
+step5:print successfully login to the register and user can access the books
+step6:if the user id is not valid
+step7:print login not successful
+step8:stop
+
+4.user pass verification
+
+step1:start
+step2:declare userpass,user,librarian,books
+step3:read the value of the userpass
+step4:if the userpass is having <5 books
+step5:print user can access the books from the library
+step6:other wise print user cannot access the books
+step7:stop

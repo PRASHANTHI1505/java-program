@@ -1,0 +1,44 @@
+
+
+
+
+Write a program that prompts the user to enter their weight in pounds and their height in 
+inches, and then calculates their body mass index (BMI). The program should then output whether 
+they are underweight, normal weight, overweight, or obese based on their BMI.
+
+   
+BMI = weight in kilograms / (height in meters)^2
+
+step1:start
+step2:declare BMI,height,weight
+step3:assign the values to height,weight
+step4:perform BMI=weigth/height^2
+step5:if BMI <=18.5
+step6:print underweight otherwise goto step7
+step7:if BMI<=20
+step8:print normal otherwise goto step9
+step9:if BMI<=30
+step10:print overweight otherwise goto step11
+step11:if BMI>30
+step12:prit obese
+step13:stop
+
+
+WAP to input basic salary of an employee and calculate its Gross salary according to following:
+    Basic Salary <= 10000 : HRA = 20%, DA = 80%
+    Basic Salary <= 20000 : HRA = 25%, DA = 90%
+    Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+
+step1:start
+step2:declare the employee salary,DA,HRA
+step3:if salary <=10000
+step4:print da=(10000*80)/100 and hra =(10000*20)/100 and calculate gross salary=(HRA + DA + Basic salary)
+step5:otherwise go to step6
+step6:if salary <=20000
+step7:print da=(20000*90)/100 and hra=(20000*25)/100 and calculate gross salary=(HRA + DA + Basic salary)
+step8:other wise go to step9
+step9:if salary >20000
+step10:print da=(20000 *95)/100 and hra=(20000*30)/100 and calculate gross salary=(HRA + DA + Basic salary)
+step11:print gross salary
+step12:other wise not print salary

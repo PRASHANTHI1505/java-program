@@ -1,0 +1,8 @@
+step1:start
+step2:declare the  variable
+step3:read the variable n,i=1
+step4:if n%i==0 then go step5 otherwise go to step6
+step5:print i
+step6:i=i+1
+step7:repeat step 4,step5 and step6 until i<=n
+step8:stop

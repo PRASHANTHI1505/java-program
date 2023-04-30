@@ -1,0 +1,6 @@
+perimeter of the square
+step1-start
+step2-declare side,perimeter
+step3-calculate  perimeter=4*side
+step4-print perimeter
+step5-stop

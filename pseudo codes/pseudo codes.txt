@@ -1,0 +1,285 @@
+1. Addition of three numbers
+
+begin
+declare a,b,c,sum
+input a,b,c
+add a+b+c
+store the result into sum (sum=a+b+c)
+print sum
+end
+
+2.average of three numbers
+
+begin
+declare a,b,c,sum,avrg
+input a,b,c
+add a+b+c
+sum=a+b+c
+avrg=sum/3
+print avrg
+end
+
+3.area of the rectangle,square
+
+(rectangle)
+begin
+declare length,breadth,area
+input length,breadth
+area=length*breadth
+print area
+end
+
+(square)
+begin
+declare side,area
+input side,area
+area=side*side
+print area
+end
+
+4.perimeter of rectangle,square
+
+(rectangle)
+begin
+declare length,breadth,perimeter
+input length,breadth
+perimeter=2*(length,breadth)
+print perimeter
+end
+
+(square)
+begin
+declare side,perimeter
+input side
+perimeter=4*side
+print perimeter
+end
+
+5.student - read 5 subject marks find the percentage
+
+begin
+declare sub1,sub2,sub3,sub4,sub5,sum,percentage
+input sub1,sub2,sub3,sub4,sub5
+sum=num1+num2+num3+num4+num5
+percentage=(sum/500)*100
+print percentage
+end
+
+6.student - read 5 subject marks find the percentage print A,B,C,D,E
+
+begin
+declare sub1,sub2,sub3,sub4,sub5,sum,percentage,grade
+input sub1,sub2,sub3,sub4,sub5
+sum=sub1+sub2+sub3+sub4+sub5
+percentage=(sub/500)*100
+if (percentage>=90)
+print A grade
+else if (percentage>=80)
+print B grade
+else if (percentage>=70)
+print C grade
+else if (percentage>=55)
+print D grade
+else if (percentage>=40)
+print E grade
+else
+print fail
+end if
+end
+
+7.positive or negative number
+
+begin
+declare n
+input n
+if (n<0)
+print n is positive number
+else
+print n is negative number
+end if
+end
+
+8.even or not
+
+begin
+declare n
+input n
+if(n%2==o)
+print n is even number
+else
+print n is not an even number
+end if
+end
+
+9.odd or not
+
+begin
+declare n
+input n
+if (n%2!=0)
+print n is a odd number
+else
+print n is not a odd number
+end if
+end
+10.voter eligiblity
+
+begin
+declare age
+input age
+if(age>=18)
+print eligible for voting
+else
+print not eligible to vote
+end if
+end
+
+11.print bitlabs 10times
+
+begin
+declare count
+input count
+for count 1 to 10 do
+print bitlabs
+count=count+1
+end for
+end
+
+12.print 1 to 10
+
+begin
+declare i
+input i=1
+while (i<=10) do
+print i
+i=i+1
+end while
+end
+
+13.print sum of number upto 20
+
+
+begin
+declare i,sum
+input i=1,sum=0
+while (i<=20) do
+sum=sum+count
+count=count+1
+print sum
+end while
+end
+
+14.print 1 to 20 even number
+
+begin
+declare i
+input i=1
+while (i<=20)do
+if (i%2==0)
+print even number
+i=i+1
+else
+i=i+1
+end if
+end while
+end
+
+15.print sum of odd numbers 1 to 20
+
+begin
+declare count,sum
+input count=1,sum=0
+for 1 to 20 do
+if(count%2!=0)
+sum=sum+count
+count=count+1
+else
+count=count+1
+end if
+end for
+print sum
+end
+
+16.count the total even numbers from 1 to 50
+
+begin
+declare count,m
+input count=1,m=0
+while(count<=50) do
+if (count%2==0)
+m=m+1
+count=cont+1
+else
+count=count+1
+end if
+end while
+print m
+end
+
+17.To find factor
+
+begin
+declare n,i
+input n,i=1
+while(i<=n)do
+if(n%i==0)
+print i
+i=i+1
+else
+i=i+1
+end if
+end while
+end
+
+18.to find perfect number
+
+begin
+declare i,n,sum
+input n,i=1,sum=0
+while (i<n)do
+if(n%i==0)
+sum=sum+i
+count=count+1
+ else
+count=count+1
+end if
+end while
+if(sum==n)
+print perfect number
+else
+ print not perfect number
+end if
+end
+
+19.print odd numbers 1 to 20
+
+begin
+declare n
+input n
+while(n<=20)do
+if(n%2!==0)
+print n
+n=n+1
+else
+n=n+1
+end if
+end while
+end
+
+20.print sum of even numbers 1 to 20
+
+begin
+declare count,sum
+input count=1,sum=0
+for 1 to 20 do
+if(count%2==0)
+sum=sum+count
+count=count+1
+else
+count=count+1
+end if
+end for
+print sum
+end
+
+

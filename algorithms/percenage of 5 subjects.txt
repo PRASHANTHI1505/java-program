@@ -1,0 +1,7 @@
+step1:start
+step2:declare five subject marks 
+step3:Calculate the sum of all subjects <total = eng + phy + chem + math + comp>
+step4:Divide the sum of all subjects by the total number of subjects to find the average i.e. average = total / 5.
+step5:Calculate the percentage<percentage = (total / 500) * 100>.
+step6: print  percentage.
+step7:stop.

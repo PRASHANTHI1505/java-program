@@ -1,0 +1,59 @@
+withdraw algorithm
+step1:start
+step2:Insert your debit card into the machine
+Step3:select the language
+step4:enter the pin
+step5:select a transaction type<withdraw>
+step6: select  a account type<savings,current>
+step7:enter amount do you want withdraw
+step8:collect money
+step9:take out the card
+step10:stop
+
+deposit algorithm
+step1:start
+step2:Insert your debit card into the machine
+Step3:select the language
+step4:enter the pin
+step5:select a transaction type<deposit>
+step6: select  a account type<savings,current>
+step7:Place the money in the cash deposit and click on 'Continue.'
+step8:take out the card
+step9:stop
+
+mini statement
+step1:start
+step2:Insert your debit card into the machine
+Step3:select the language
+step4:enter the pin
+step5:select a transaction type<mini statement>
+step6: select  a account type<savings,current>
+step7:take the slip from the atm machine 
+step8:the out the card
+step9:stop
+
+account balance enquiry
+step1:start
+step2:Insert your debit card into the machine
+Step3:select the language
+step4:enter the pin
+step5:select a transaction type<balance enquiry>
+step6: select  a account type<savings,current>
+step7:atm machine display the money
+step8:take out the crd
+step9:stop
+
+ pin change
+step1:start
+step2:Insert your debit card into the machine
+Step3:select the language>
+step4:select a transaction type<deposit>
+step5: select  a account type<savings,current>
+step6:clink on generate pin
+step7:enter the otp
+step8:set the pin 
+step9:take out the card
+step10:stop
+
+
+
