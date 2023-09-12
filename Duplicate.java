@@ -1,9 +1,9 @@
 import java.util.*;
-class Unique
+class Duplicate
   {
-    public static void uni(int a[],boolean b[],int size)
+    public static void Dup(int a[],boolean b[],int size)
     {
-      System.out.println("the unique values are");
+      System.out.println("the duplicate values are");
       for(int i=0;i<size;i++)
         {
           int count=1;
@@ -17,7 +17,7 @@ class Unique
                 b[j]=true;
               }
             }
-          if(count==1)
+          if(count!=1)
             System.out.println(a[i]);
         }
     }
@@ -37,7 +37,7 @@ class Unique
         {
           b[i]=false;
         }
-      uni(a,b,size);
+      Dup(a,b,size);
       
     }
   }

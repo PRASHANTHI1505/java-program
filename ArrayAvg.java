@@ -26,4 +26,3 @@ class ArrayAvg
       average(a,size);
     }
   }
-       

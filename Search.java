@@ -29,4 +29,3 @@ class Search
         search(a,size,value);
         }
     }
-}
